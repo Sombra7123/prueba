@@ -1,0 +1,70 @@
+.no{
+    text-align: center;
+    color: blue;
+    text-shadow: rgba(0, 17, 250);
+}
+p{
+    text-align: center;
+   
+}
+body{
+    background-color: yellow;
+   
+}
+p{
+    text-align: right;
+}
+h2{
+    color: red;
+}
+h3{
+    text-align: center;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+.si{
+    position: relative;
+    top: -300px;
+    left: 200px;
+}
+div{
+    position: relative;
+  
+    left: 500px;
+}
+#fondo{
+    background-color: antiquewhite;
+    background-image:url("co2.png") ;
+    height: 150px;
+   
+    background-size: contain;
+    background-repeat:center top;
+}
+.an{
+    position: relative;
+    top: -100px;
+    left: 800px;
+}
+.li{
+    position: relative;
+    top: -50px;
+    left: 500px;  
+}
+form{
+    position: relative;
+    top: 1px;
+    left: 840px;  
+}
+h3
+{
+    font-family: cursive;
+}
+.no{
+    font-family: fantasy;
+}
+.sin
+{
+    font-family: fantasy;
+}
